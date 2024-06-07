@@ -6,9 +6,6 @@
 ✅ Data Analyzes were Conducted for Exploratory Purposes
 ✅ Analysis of cases in the world was made
 ✅ Cases in Türkiye Revealed Regionally (Daily Cases)
-
-![image](https://github.com/aykutsahin98/Live-Graphing-of-Covid19Cases/assets/36954450/916bbf2f-dd66-4e07-9d28-c3a72ce27497)
-
 ✅ Daily Cases in Selected Countries (Türkiye, America, China, Italy, Germany, Japan, England)
 ✅ Total Number of Cases Analysis was Done
 ✅ We looked at the cumulative total of case numbers
