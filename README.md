@@ -17,5 +17,7 @@
 
 ✅ Finally, a live chart of daily cases in selected countries was created and a video was created.
 
+https://github.com/aykutsahin98/Live-Graphing-of-Covid19Cases/assets/36954450/fc5fca31-4177-472a-a2c6-81a7492539ba
+
 
  
